@@ -15,13 +15,13 @@ h1{
     z-index:1;
 }
 
-.back{
-    /* full screen */
+.imgfull{
     position:fixed;
     left:0;
     top:0;
     min-width:100%;
     min-height:100%;
+    opacity:0.5;
 }
 
 #press{
